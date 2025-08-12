@@ -112,7 +112,7 @@ body {
 
 .content-left p {
     font-size: 16px;
-    color: #6c757d;
+    color: #eff0f8;
     line-height: 1.6;
     margin-bottom: 8px;
     max-width: 450px; 
@@ -125,8 +125,6 @@ body {
     max-width: 450px; 
 }
 
-
-/* Student Stats */
 .student-stats {
     display: flex;
     align-items: center;
